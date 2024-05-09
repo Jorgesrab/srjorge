@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Esto es una prueba de git para la mejor asignatura");
+        System.out.println("Este es el cambio del punto 5");
     }
 }
